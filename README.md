@@ -4,7 +4,7 @@ I am a Software engineer with experience in building intelligent & scalable appl
 I love mobile apps, distributed systems, open source projects and the challenges associated with them.
 I like writing,sharing my knowledge with other engineers.
 
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<img align ="right" src = "https://rustacean.net/assets/rustacean-orig-noshadow.svg" width="150" height="150">
 
 - 🔭 I’m currently working on new open source project [Commun App](https://github.com/TheAlphamerc/flutter_commun_app).
 - 🌱 I’m currently learning Android Kotlin and Swift UI
